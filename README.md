@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/)
 
-## Getting Started
+## Getting Started | lets go!!
 
 First, run the development server:
 
