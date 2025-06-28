@@ -14,7 +14,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js! | new line | hey bro</a>
+          Welcome to <a href="https://nextjs.org">Next.js! | new line | coba lagi | tsting dari branch = deni/testing</a>
+           Stashed changes
         </h1>
 
         <p className={styles.description}>
