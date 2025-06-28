@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js! | new line | coba lagi | tsting dari branch = deni/testing</a>
+          Welcome to <a href="https://nextjs.org">Next.js! | new line | coba lagi | tsting dari branch = deni/testing | testing dari serv | env new</a>
            Stashed changes
         </h1>
 
